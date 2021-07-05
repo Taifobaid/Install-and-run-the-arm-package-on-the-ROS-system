@@ -63,6 +63,7 @@ sudo apt install python-rosdep python-rosinstall python-rosinstall-generator pyt
   source ~/.bashrc 
   roslaunch robot_arm_pkg check_motors.launch 
   ```
+  ![9](https://user-images.githubusercontent.com/67175109/124523079-20673b00-ddfe-11eb-8562-27a92242e963.PNG)
 
 
 
