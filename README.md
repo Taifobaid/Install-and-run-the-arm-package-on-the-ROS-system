@@ -59,9 +59,9 @@ sudo apt install python-rosdep python-rosinstall python-rosinstall-generator pyt
 ## launch arduino_robot_arm :
   ```
   sudo nano ~/.bashrc
-  (source /home/#### system name ####/catkin_ws/devel/setup.bash <br/>
-  source ~/.bashrc <br/>
-  roslaunch robot_arm_pkg check_motors.launch <br/>
+  (source /home/ system name /catkin_ws/devel/setup.bash 
+  source ~/.bashrc 
+  roslaunch robot_arm_pkg check_motors.launch 
   ```
 
 
